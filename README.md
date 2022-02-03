@@ -1,6 +1,8 @@
 Code Quiz
 Still need to figure out local storage but I wanted to submit what I have so far.
 
+DEPLOYED - https://drewk2629.github.io/code-quiz/
+
 User clicks start to enter the quiz app.
 ![01](https://user-images.githubusercontent.com/94206317/152258222-728a9e9b-a80b-4acc-97fb-0041b5a39df6.png)
 
